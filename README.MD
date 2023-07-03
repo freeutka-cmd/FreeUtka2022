@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
 <br>
     <img src="https://img.shields.io/badge/mysql-171717?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" style="border-radius:15px"/>
 </div>
 <br><br>
 <h1 align="center">
