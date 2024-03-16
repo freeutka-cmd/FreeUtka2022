@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/mysql-171717?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" style="border-radius:15px"/>
 </div>
-<br><br>
+<br>
 <h1 align="center">
     Статистика GitHub
 </h1>
@@ -43,4 +43,3 @@
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freeutka-cmd&theme=gruvbox_duo&background=000&hide_border=true&ring=fff&currStreakLabel=fff&sideNums=fff&currStreakNum=fff&sideLabels=fff&text_color=ffffff&count_private=true"  alt=""/>
 </div>
-<br><br>
